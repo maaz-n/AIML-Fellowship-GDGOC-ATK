@@ -1,4 +1,4 @@
-Already had solid understanding of these concepts so solving these problems weren't a hassle.
+Already had solid understanding of these concepts so solving these problems wasn't a hassle.
 
 How to run (make sure you have python installed in your system):
 - Open the folder (Task1) in terminal
