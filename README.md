@@ -1,9 +1,38 @@
+The programs in each of the tasks are stated below:
+
+---
+## WEEK 1
+
 ### TASK 1:
-- Already had solid understanding of these concepts so solving these problems wasn't a hassle.
+- Area of a circle.
+- Finding the factorial of a number.
+- A number guessing game.
+- Reversing a string.
+
+---
 
 ### TASK 2:
-- Learned about file handling, Lambda functions and *args and **kwargs in python.
+- A simple calculator app.
+- A simple contact management app with menu interface.
+- Basic operations on an array of numbers.
+- A simple student management app that uses dictionaries and has a menu driven interface.
+- Basic file handling utility functions.
 
-### How to run (make sure you have python installed in your system):
-- Open the folder (Task1) in terminal
-- Use command "python3 <name_of_program.py>" to execute the programs
+---
+
+### TASK 3
+- Implemented OOP and created a simple Bank Account management program.
+- Implementing decorators and finding the time taken to execute a function.
+- Implementing generators.
+
+---
+
+### TASK 4
+- Created a simple decimal --> binary converter and implementd modular programming.
+
+---
+
+### TASK 5
+- A mini project of a **File Analyzer** app, deployed on *streamlit* that shows basic info i.e. char count, word count and line count of a `.txt` file.
+
+---
