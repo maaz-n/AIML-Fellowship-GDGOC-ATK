@@ -1,3 +1,7 @@
+The app is hosted live on: https://filelytics.streamlit.app/
+
+---
+
 # Mini Project: File Analyzer App
 
 This is a simple File Analyzer app built using Python and Streamlit.
@@ -33,11 +37,5 @@ This project focuses on the following Python concepts:
 * **Error Handling**
 
   * Handling unsupported files and decoding errors
-
----
-
-##  How to run:
-
-The app is hosted live on: https://filelytics.streamlit.app/
 
 ---
