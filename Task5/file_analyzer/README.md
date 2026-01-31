@@ -38,18 +38,6 @@ This project focuses on the following Python concepts:
 
 ##  How to run:
 
-1. Install Streamlit:
-
-   ```bash
-   pip install streamlit
-   ```
-
-2. Run the app:
-
-   ```bash
-   streamlit run src/app.py
-   ```
-
-3. Upload a `.txt` file and view the results.
+The app is hosted live on: https://filelytics.streamlit.app/
 
 ---
