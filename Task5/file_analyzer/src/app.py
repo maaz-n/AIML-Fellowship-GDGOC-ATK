@@ -21,3 +21,7 @@ try:
                 st.error("Unsupported file detected! Please upload a .txt file")
 except UnicodeDecodeError:
             st.error("An error occured!")
+
+finally:
+      st.divider()
+      st.caption("[Source code](https://github.com/maaz-n/AIML-Fellowship-GDGOC-ATK/tree/main/Task5/file_analyzer)")
