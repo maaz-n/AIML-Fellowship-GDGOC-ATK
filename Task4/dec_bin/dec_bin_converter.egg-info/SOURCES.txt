@@ -1,7 +1,0 @@
-setup.py
-converter/__init__.py
-converter/main.py
-dec_bin_converter.egg-info/PKG-INFO
-dec_bin_converter.egg-info/SOURCES.txt
-dec_bin_converter.egg-info/dependency_links.txt
-dec_bin_converter.egg-info/top_level.txt
